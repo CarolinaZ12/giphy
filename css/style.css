@@ -1,11 +1,11 @@
 
 body {
-    padding-top: 200px;
+    background-color:aqua;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
 .navbar-brand {
-    color: white;	
+    color: white;
 }
 
 footer {
